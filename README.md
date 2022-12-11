@@ -1,3 +1,11 @@
+## Description
+
+This is CRUD application using Firebase and bootstrap for the third assignment in n322 at IUPUI
+
+## URL
+
+https://n322-homework-three.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
